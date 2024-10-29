@@ -231,7 +231,7 @@
         <div class="container navbar-container">
             <div class="flex-shrink-0">
                 <a href="/">
-                    <img src="{{ asset('images/logo.png') }}" alt="Company Logo here" class="h-10">
+                    <img src="{{ asset('images/logo.png') }}" alt="Company Logo here" class="h-20">
                 </a>
             </div>
             <div class="menu-button">
@@ -285,7 +285,7 @@
 
     <!-- Footer -->
     <footer class="bg-dark text-light p-4 text-center">
-        &copy; 2024 Company name here. All rights reserved.
+        &copy; 2024 Tuplins Web Development. All rights reserved.
     </footer>
 
     <script>
